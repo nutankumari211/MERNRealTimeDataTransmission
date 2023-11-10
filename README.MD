@@ -21,13 +21,13 @@ Make sure you have the following installed on your machine:
   cd backend
   npm install
 
-3.Install frontend dependencies
+4.Install frontend dependencies
 cd ../frontend
 npm install
 
 # How to run code
 
-4. Open 3 terminals 
+5. Open 3 terminals 
    a) terminal 1: i)cd backend   ii) nodemon listener.js
    b) terminal 2: i)cd backend   ii) nodemon emitter.js
    a) terminal 3: i)cd frontend   ii) npm start
