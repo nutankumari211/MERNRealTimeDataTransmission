@@ -3,7 +3,7 @@
 
 This project demonstrates a simple real-time data transmission system using Node.js, Socket.IO, MongoDB, and React. The system encrypts data on the server-side, transmits it to the client-side, decrypts it, and stores it in a MongoDB database.
 
-## Prerequisites
+# Prerequisites
 
 Make sure you have the following installed on your machine:
 
@@ -11,7 +11,7 @@ Make sure you have the following installed on your machine:
 - MongoDB: [Download and Install MongoDB](https://www.mongodb.com/try/download/community)
 - React: Install globally using `npm install -g create-react-app` (if not already installed)
 
-## Installation
+# Installation
 
 1. Unzip the github Code:
 
