@@ -4,7 +4,7 @@
   "description": "",
   "main": "emitter.js",
   "scripts": {
-      "start": "cd /opt/render/project/src/ && node listener.js"
+    "start": "cd /opt/render/project/src/ && node listener.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nutan",
